@@ -5,8 +5,11 @@ This is our home automation project, featuring offline voice-based control. This
 **Required components:**
 
 *3 relays
+
 *1 ESP8266 NodeMCU
+
 *AI Thinker VC-02 Module
+
 *2 Lamps,Fan,Door Lock
 
 **Instructions:**
