@@ -1,12 +1,14 @@
+**SMART HOME AUTOMATION WITH CLOUD INTEGRATION**
 This is our home automation project, featuring offline voice-based control. This guide provides instructions to make same project or similar project.
 
-Required components:
+**Required components:**
 
 3 relays
 1 ESP8266 NodeMCU
 AI Thinker VC-02 Module
 2 Lamps,Fan,Door Lock
-Instructions:
+
+**Instructions:**
 
 Install PlatformIO in VS Code and create a new project within PlatformIO, selecting NodeMCU 1.0.
 Paste the provided main.cpp code into the src/main.cpp file.
