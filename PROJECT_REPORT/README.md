@@ -1,4 +1,5 @@
 **SMART HOME AUTOMATION WITH CLOUD INTEGRATION**
+
 This is our home automation project, featuring offline voice-based control. This guide provides instructions to make same project or similar project.
 
 **Required components:**
