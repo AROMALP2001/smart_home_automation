@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> AROMAL P </p>
+    <p><strong>Email ID:</strong> aromalp.g2ia@gmail.com</p>
+    <p><strong>College Name:</strong> Manakula Vinayagar Institiute Of Technology, Pondicherry </p>
+    <p><strong>Branch/Specialization :</strong> Robotics And Automation</p>
+    <p><strong>College ID:</strong> 2023L06001 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Industrual Automation </p>
+    <p><strong>Instructor Name:</strong> KUMAR SHUBHASHIS </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> KUMAR SHUBHASHIS </p>
+<p><strong>Trainer Email ID:</strong> kumarshubhashis@yahoo.co.in</p>
+<p><strong>Trainer Designation:</strong> TATA Motors - Senior Manager Design & Project Planning/Maintenance planning</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,96 +63,63 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During this course, I gained strong exposure to industrial embedded systems and communication technologies with IoT integration. I developed practical knowledge of PLC systems, HMI operation, and various industrial field instruments and devices. I also learned the fundamentals of PLC programming, along with the principles and industrial applications of hydraulics and pneumatics. Through this learning, I strengthened my understanding of industrial automation workflows, troubleshooting approaches, documentation practices, and real-world industrial use cases.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> Smart Home Automation With  Cloud Integration</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Smart Home Automation With  Cloud Integration</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  This project implements an intelligent home automation system that combines offline voice control (VC-02 module) with cloud-based remote management (PlatformIO IoT Cloud) to create a reliable, accessible, and energy-efficient smart home solution.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/AROMAL-P-g2-ia/blob/261d724aedc1f238bae8a258ecb963cfd46130a8/Course%20report/PROJECT%20REPORT.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
-
+[Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
+[Smart Home Automation](https://en.wikipedia.org/wiki/Home_automation)
+[ESP32 Microcontroller](https://en.wikipedia.org/wiki/ESP32)
+[Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+LST and SST classes provided structured guidance on professional communication, work ethics, leadership, and emotional intelligence, helping me develop strong interpersonal and workplace skills. The sessions also covered digital presence, presentation skills, negotiation, and career planning, which enhanced my confidence and professional readiness. Advanced topics such as prompt engineering, productivity with AI, and creative problem-solving improved my ability to use AI tools effectively in real-world scenarios. Overall, these classes strengthened my professional mindset, communication abilities, and technical adaptability, supporting my personal growth and career development.
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I engaged in various community-focused initiatives that supported social welfare and environmental care. I took part in blood donation to contribute to community health, planted saplings to encourage a greener environment, and provided assistance to an elderly individual in my local area. These activities enhanced my awareness of social responsibility and the importance of giving back to the community.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+THE MADRAS MEDICAL MISSION,CHENNAI
+- **Blood Donation** – Voluntarily participated in a blood donation initiative at Madras Medical Mission Hospital Blood Bank, Chennai.
   
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
-
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
-
+At my residence in my hometown.
+- **Tree Plantation Drive** – Planted two saplings at my residence to support environmental conservation.
+  
+Local community of Thalassery.
+- **Helping Elder Citizens** – Helped an elderly lady in the Thalassery town area by providing food on one occasion, contributing to the well-being of a senior citizen in the local community.
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Contributed to community health by voluntarily donating blood at Madras Medical Mission Hospital Blood Bank, Chennai.
+- Contributed to environmental sustainability by planting saplings at my residence, promoting     greener and cleaner surroundings.
+- Offered personal assistance to an elderly citizen in the Thalassery town area by providing      food, strengthening community care and social responsibility.
+- Enhanced skills in communication, coordination, empathy, and civic responsibility through       active participation in community service initiatives.
 
 ### **Photos**
 
@@ -162,9 +129,12 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/user-attachments/assets/9cbafec1-fde4-4a0a-8e7d-8e10319bffca"
+ alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/user-attachments/assets/23d77b89-f205-4ed0-8e3b-09f969b0ccd7"
+ alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/user-attachments/assets/48db4cfa-6f8d-4c07-b4a5-4b888a516990"
+ alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
@@ -183,7 +153,9 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
-
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
-
+- [ShrI.Kumar Shubhashis](https://www.linkedin.com/in/kumar-shubhashis-a2311720/) ,
+Senior Manager Design & Project Planning/Maintenance planning TATA Motors
+- [Bharat S Vinchwekar](https://www.linkedin.com/in/bharatvinchwekar/) ,
+Manager - Industrial Automation - [Elansol Technologies Pvt.](https://www.linkedin.com/company/elansol-technologies/posts/?feedView=all)
+- [Tejas Kandi](https://www.linkedin.com/in/tejas-kandi/)
